@@ -1,4 +1,4 @@
-# QA Portfolio – Maria Butt
+# QA – Maria Butt
 
 This repository showcases my learning and practice as an aspiring QA Engineer.
 
